@@ -28,6 +28,6 @@ random.shuffle (password_list)
 print (password_list)
 password =""
 for char in password_list :
-    password_list += char 
-print (password_list) 
+    password += char 
+print (password) 
 
