@@ -49,4 +49,4 @@ print(total_home_runs)
 # Find the average number of home runs and assign it
 # to the average_home_runs variable below
 average_home_runs =home_runs.mean()
-print(average_home_runs)
+print("average", average_home_runs)
